@@ -2,3 +2,4 @@ assets/js/index.js/* linguist-vendored=false
 css/* linguist-vendored    
 *.gs linguist-language=Javascript
 style.css linguist-vendored=false
+index.js linguist-vendored=false
