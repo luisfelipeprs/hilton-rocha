@@ -1,2 +1,5 @@
 # Ignore docs files
 /assets/css/
+
+# Numerous always-ignore extensions
+*.css
