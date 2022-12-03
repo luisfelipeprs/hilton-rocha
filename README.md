@@ -2,7 +2,7 @@
 
 <p align="left">
  
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"> 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
 
 <img src="https://img.shields.io/aur/license/c?color=gree&label=LICENCE&style=for-the-badge">
 
@@ -11,7 +11,7 @@
 Esse é um projeto para criar um site para minha escola (Escola Estadual Professor Hilton Rocha), na qual será apresentada na feira de empreendedorismo.
 
 
-<img src="https://s4.gifyu.com/images/hiltonr.gif">
+<img src="https://cdn.discordapp.com/attachments/920700154204553226/1048747814802440192/image.png">
 
 ## Techs
 
