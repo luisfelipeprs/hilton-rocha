@@ -11,7 +11,7 @@
 Esse é um projeto para criar um site para minha escola (Escola Estadual Professor Hilton Rocha), na qual será apresentada na feira de empreendedorismo.
 
 
-<img src="https://cdn.discordapp.com/attachments/920700154204553226/1013181181052862534/unknown.png" >
+<img src="https://cdn.discordapp.com/attachments/920700154204553226/1048739466304573490/hiltonr.gif" >
 
 ## Techs
 
