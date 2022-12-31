@@ -2,7 +2,7 @@
 
 <p align="left">
  
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
+
 
 <img src="https://img.shields.io/aur/license/c?color=gree&label=LICENCE&style=for-the-badge">
 
