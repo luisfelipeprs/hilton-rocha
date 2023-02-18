@@ -80,6 +80,7 @@
 }
 
 body {
+    background-image: url(../img/background.jpeg);
     margin: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
@@ -87,7 +88,7 @@ body {
     line-height: var(--bs-body-line-height);
     color: var(--bs-body-color);
     text-align: var(--bs-body-text-align);
-    background-color: var(--bs-body-bg);
+    background-color: #000000c2;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
 }
@@ -99,7 +100,12 @@ hr {
     border-top: 1px solid;
     opacity: .25
 }
+.backtop{
+    margin: 100 auto;
+    
 
+
+}
 .h1,
 .h2,
 .h3,
@@ -4772,7 +4778,7 @@ fieldset:disabled .btn {
     --bs-navbar-active-color: #fff;
     --bs-navbar-brand-color: #fff;
     --bs-navbar-brand-hover-color: #fff;
-    --bs-navbar-toggler-border-color: rgba(255, 255, 255, 0.1);
+    --bs-navbar-toggler-border-color: rgba(236, 14, 14, 0.1);
     --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
 }
 
@@ -4909,7 +4915,10 @@ fieldset:disabled .btn {
 .card-img,
 .card-img-bottom,
 .card-img-top {
-    width: 100%
+    width: 100%;
+    
+    
+    
 }
 
 .card-img,
@@ -8696,7 +8705,7 @@ fieldset:disabled .btn {
 }
 
 .mb-1 {
-    margin-bottom: .25rem !important
+    margin-bottom: .25rem !important;
 }
 
 .mb-2 {
@@ -8828,7 +8837,7 @@ fieldset:disabled .btn {
 
 .py-5 {
     padding-top: 3rem !important;
-    padding-bottom: 3rem !important
+    padding-bottom: 3rem !important;
 }
 
 .pt-0 {
@@ -8988,7 +8997,8 @@ fieldset:disabled .btn {
 }
 
 .fw-light {
-    font-weight: 300 !important
+    font-weight: 300 !important;
+    color: #fff;
 }
 
 .fw-lighter {
